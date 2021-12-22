@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 - [JDaddy] (https://github.com/Jason8830)
 - [Hudlez](https://github.com/hudlez)
+- [Big Chungus] (https://github.com/donutslayer)
 - [The Capricorn](https://github.com/khushmanvar)
 - [Boby](https://github.com/bobychaudhary)
 - [menoetius](https://github.com/menoetius-the-rash)
